@@ -25,6 +25,8 @@ sudo npm install -g express-generator
 3. https://help.rive.app/runtimes/overview/web-js/low-level-api-usage
 4. https://help.rive.app/editor/state-machine#listeners
 5. https://rive.app/community/doc/state-machine/docwH5zPdh93
+6. https://rive.app/community/doc/rive-parameters/docHI9ASztXP
+
 
 
 
